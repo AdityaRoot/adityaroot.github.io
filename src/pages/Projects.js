@@ -17,7 +17,9 @@ const Projects = () => (
       <header>
         <div className="title">
           <h2 data-testid="heading"><Link to="/projects">Projects</Link></h2>
-          <p>A collection of some cool projects that I&apos;ve been a part of.</p>
+          <p>A collection of some cool projects that I&apos;ve been a part of.
+            Titles are hyperlinked where available.
+          </p>
         </div>
       </header>
       {noimgdata.map((project) => (

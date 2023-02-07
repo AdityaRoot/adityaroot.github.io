@@ -11,11 +11,6 @@ const degrees = [
     link: 'https://www.ukmt.org.uk/',
     year: 2020,
   },
-  {
-    school: 'Discovery College Model United Nations',
-    degree: 'Best Delegate - International Court of Justice',
-    year: 2019,
-  },
 ];
 
 export default degrees;

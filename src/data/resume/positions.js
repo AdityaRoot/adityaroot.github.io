@@ -1,11 +1,21 @@
 const positions = [
   {
-    company: 'Tramplus',
+    company: 'Project Melo',
+    position: 'Fellow',
+    link: 'https://www.projectmelo.com/',
+    daterange: 'December 2022 - Present',
+    points: [
+      'Working with leading CEOs and industry leaders to empower youth and drive positive social impact in Hong Kong.',
+      'Focused on forging inter-generational trust through authentic communication, co-creation, and joint-discovery.',
+    ],
+  },
+  {
+    company: 'Tramplus x MIT Node',
     position: 'Freelance Tutor',
     link: 'https://www.tramplus.net/',
-    daterange: 'October 2022 - Present',
+    daterange: 'December 2022 - Present',
     points: [
-      'Working as a freelance Tutor with tramplus and MIT Node to design courses for students to innovate on Design Thinking and Sustainability in transportation',
+      'Working with the Massachusetts Institute of Technology Hong Kong Innovation Node and Tramplus on a co-developed STEAM education program promoting sustainability and circular design.',
     ],
   },
   {
@@ -34,7 +44,7 @@ const positions = [
   },
   {
     company: 'Bloom Standard',
-    position: 'Intern',
+    position: 'Software Engineering Intern',
     link: 'https://www.bloomstandard.com/',
     daterange: 'February 2016 - March 2016',
     points: [
@@ -49,7 +59,7 @@ const positions = [
     company: 'Discord',
     position: 'Community Manager',
     link: 'https://discord.com',
-    daterange: '2018 - July 2022',
+    daterange: '2018 - December 2021',
     points: [
       'Working professionally with Discord and Keywords Studio in community management to build safe and thriving online communities through team and bot management',
       'Clientele includes NetEase, Warner Bros, Skullcandy, Webtoon, and more',
