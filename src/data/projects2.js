@@ -29,6 +29,7 @@ const noimgdata = [
       + ' I was invited to partake in a course where I independently pursue a stock, finance, or market-based python project.'
       + ' I created and iterated on a machine-learning based python trading algorithm analysing Google Trends '
       + 'that resulted in a consistent profit. Subsequently I authored a report (linked) detailing my process and findings.'
+      + ' The report was graded and received an A+.'
       + ' Tools used include Python, TensorFlow, Jupyter, NumPy, Pandas, Scikit-Learn and Matplotlib',
   },
   {
@@ -37,7 +38,8 @@ const noimgdata = [
     date: '2022 January',
     desc:
       'At Bloom Standard while working as a Software and Electrical engineering intern, I worked with the CTO '
-      + 'to produce a working prototype of a handheld user-driven ultrasound for infants based on the open source pocovidnet neural network engine. ',
+      + 'to produce a working prototype of a handheld user-driven ultrasound for infants based on the open source pocovidnet neural network engine. '
+      + 'The device is currently being used in hospital trials in the United Kingdom, India, and Mexico.',
   },
   {
     title: 'Sunshine Action Website',

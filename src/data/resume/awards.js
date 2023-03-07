@@ -1,5 +1,11 @@
 const degrees = [
   {
+    school: 'Hong Kong Techathon',
+    degree: '2nd Runner Up',
+    link: 'https://www.hktechathon.com/',
+    year: 2023,
+  },
+  {
     school: 'Hong Kong University of Science and Technology',
     degree: 'Exceptional Grade Scholarship',
     link: 'https://hkust.edu.hk/',

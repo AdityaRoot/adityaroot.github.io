@@ -7,7 +7,8 @@ const positions = [
     points: [
       'Organised and supervised numerous events promoting entrepreneurship and technology at HKUST',
       'Frequently managed teams of 5-10 people',
-      'Organised events focusing on a myriad of of technical topics ranging from Google technologies to general tech',
+      'Organised events focusing on a myriad of of technical topics including Google technologies such as TensorFlow and languages such as Python',
+      'Organised mentorship and sharing sessions from industry mentors from Senior Software Engineers at Google to Project Managers at Microsoft',
     ],
   },
   {

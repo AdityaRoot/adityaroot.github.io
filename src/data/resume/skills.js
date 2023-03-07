@@ -39,11 +39,11 @@ const skills = [
     competency: 3,
     category: ['Languages'],
   },
-  {
-    title: 'MATLAB',
-    competency: 2,
-    category: ['Languages'],
-  },
+  // {
+  //   title: 'MATLAB',
+  //   competency: 2,
+  //   category: ['Languages'],
+  // },
   {
     title: 'Bash/Shell',
     competency: 4,
@@ -61,7 +61,7 @@ const skills = [
     category: ['Tools'],
   },
   {
-    title: 'Amazon Web Services',
+    title: 'Amazon Web Services (AWS), Google Cloud, Microsoft Azure',
     competency: 4,
     category: ['Web Development', 'Tools'],
   },
@@ -80,11 +80,11 @@ const skills = [
     competency: 4,
     category: ['Tools'],
   },
-  {
-    title: 'Google Cloud Compute',
-    competency: 4,
-    category: ['Tools', 'Web Development'],
-  },
+  // {
+  //   title: 'Google Cloud Compute',
+  //   competency: 4,
+  //   category: ['Tools', 'Web Development'],
+  // },
   {
     title: 'Numpy',
     competency: 4,
