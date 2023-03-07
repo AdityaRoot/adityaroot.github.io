@@ -3,9 +3,11 @@ name: GitHub Pages
 on:
   push:
     branches: [ main ]
+  workflow_dispatch:
 jobs:
   deployment:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-20.04
+    timeout-minutes: 5
     environment: production
     steps:
     - name: Checkout
@@ -28,5 +30,5 @@ jobs:
       run: |
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/AdityaRoot/adityaroot.github.io.git
+          git remote set-url origin https://git:${GITHUB_TOKEN}@github.com/mldangelo/personal-site.git
           npm run deploy
