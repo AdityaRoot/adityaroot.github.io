@@ -51,14 +51,6 @@ const positions = [
       'Found and managed club hosting internal hackathon to prepare a team of 15 students for the Greater China Coding Competition & Canadian Coding Competition',
     ],
   },
-  {
-    company: 'VEX Robotics',
-    position: 'Lead',
-    daterange: 'September 2017 - July 2015',
-    points: [
-      'Taught and prepared a team of 5 select students to participate in inter-school VEX Robotics competitions',
-    ],
-  },
 ];
 
 export default positions;

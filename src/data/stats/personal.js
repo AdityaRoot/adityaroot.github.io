@@ -26,8 +26,8 @@ const data = [
   },
   {
     key: 'location',
-    label: 'Current city',
-    value: 'Hong Kong',
+    label: 'Locations',
+    value: 'Hong Kong and London',
   },
   {
     label: 'Typing speed (on a good day)',

@@ -1,11 +1,20 @@
 const positions = [
   {
+    company: 'UBS',
+    position: 'Incoming Summer Global Markets Quant',
+    link: 'https://www.ubs.com/uk/en.html',
+    daterange: 'June 2023 - August 2023',
+    points: [
+      'Accepted as a summer intern to work with the Global Markets Quant team in London',
+    ],
+  },
+  {
     company: 'Project Melo',
     position: '2023 Fellow',
     link: 'https://www.projectmelo.com/',
     daterange: 'January 2023 - Present',
     points: [
-      'Applying multiple McKinsey consulting strategies in preparation for Project Melo\'s flagship annual roundtable event, globally broadcasted by SCMP',
+      'Applying McKinsey consulting strategies in preparation for Project Melo\'s flagship annual roundtable event, globally broadcasted by SCMP',
       'Working intimately with Bernard Chan (Chairman of M+ Museum), Kenny Lam (CEO of TwoSigma APAC), and more leading HK CEOs',
     ],
   },
@@ -51,7 +60,7 @@ const positions = [
       'Working hands-on with the CTO to develop a functional prototype of user-driven and affordable ultrasound technology currently undergoing hospital trials in UK, India, and Mexico',
       'Deployed and configured Python-based TensorFlow neural network machine learning algorithm to Nvidia GPU driven supercomputer',
       'Effectively performed system administration duties in setting up and managing remote access through VNC and RaspberryPi hosted on HK AI Labs\' Linux supercomputer',
-      'Specializing in Python, Linux, RaspberriPi, Git, TensorFlow, VNC, and Docker',
+      'Specialized in Python, Linux, RaspberriPi, Git, TensorFlow, VNC, and Docker',
     ],
   },
   {
@@ -61,7 +70,8 @@ const positions = [
     daterange: '2018 - December 2021',
     points: [
       'Working professionally with Discord and Keywords Studio in community management to build safe and thriving online communities through team and bot management',
-      'Clientele includes NetEase, Warner Bros, Skullcandy, Webtoon, and more',
+      'Managed teams ranging from 5-50 people and servers ranging from 100 to over 1.1 million members',
+      'Past clientele includes NetEase, Warner Bros, Skullcandy, Webtoon, and more',
     ],
   },
 ];

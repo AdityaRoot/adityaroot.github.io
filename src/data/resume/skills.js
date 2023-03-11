@@ -1,6 +1,3 @@
-// TODO: Add Athletic Skills, Office Skills,
-// Data Engineering, Data Science, ML Engineering, ... ?
-
 const skills = [
 
   // Languages Primarily
@@ -36,7 +33,7 @@ const skills = [
   },
   {
     title: 'C(++)',
-    competency: 3,
+    competency: 4,
     category: ['Languages'],
   },
   // {
