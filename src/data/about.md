@@ -1,6 +1,6 @@
 <h1 id="intro">Intro</h1>
-<p>Hi, my name is Aditya Vikram Mangla - though I generally go by Adi.</p><br />
-<p>I'm currently a second-year student at the Hong Kong University of Science and Technology. I'm majoring in Physics but may transfer to Computer Engineering - either way, I'm majoring in one and minoring in the other! I've grown up in Hong Kong all my life and love the city with all my heart, this metropolis paradise shrouded by nature and mountains. Despite this, I believe that as my university life comes to an end - so shall my time in Hong Kong, and I plan to permanently move to colder climates if I'm fortunate enough to find work there.</p>
+<p>Hi, my name is Aditya Vikram Mangla, though I generally go by Adi.</p><br />
+<p>I'm currently a second-year student at the Hong Kong University of Science and Technology. I'm majoring in Physics but may transfer to Computer Engineering - either way, I'm majoring in one and minoring in the other! I've grown up in Hong Kong all my life and love the city with all my heart. This metropolis paradise shrouded by nature and mountains. Despite this, I believe that as my university life comes to an end, so shall my time in Hong Kong, and I plan to permanently move to colder (and less humid) climates if I'm fortunate enough to find work there.</p>
 <br />
 <h1 id="work">Work</h1>
 <p>I've been incredibly fortunate to get access to some amazing opportunities here in Hong Kong, and I have two favorites that I'd like to highlight.</p>
