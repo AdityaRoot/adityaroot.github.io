@@ -41,7 +41,8 @@ const positions = [
       'Organised, moderated, and participated in authentic roundtable-style discussions with industry leaders',
       'Working intimately with Bernard Chan (Chairman of M+ Museum), Kenny Lam (CEO of TwoSigma APAC), and more leading HK CEOs',
     ],
-  },  {
+  },
+  {
     company: 'Laboratory for Space Research (HKU)',
     position: 'Full-Time Research Assistant',
     link: 'https://www.lsr.hku.hk/',
