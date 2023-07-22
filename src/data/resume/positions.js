@@ -1,21 +1,14 @@
 const positions = [
   {
     company: 'UBS',
-    position: 'Incoming Summer Global Markets Quant',
+    position: 'Summer Global Markets Quant',
     link: 'https://www.ubs.com/uk/en.html',
     daterange: 'June 2023 - August 2023',
     points: [
-      'Accepted as a summer intern to work with the Global Markets Quant team in London',
-    ],
-  },
-  {
-    company: 'Project Melo',
-    position: '2023 Fellow',
-    link: 'https://www.projectmelo.com/',
-    daterange: 'January 2023 - Present',
-    points: [
-      'Applying McKinsey consulting strategies in preparation for Project Melo\'s flagship annual roundtable event, globally broadcasted by SCMP',
-      'Working intimately with Bernard Chan (Chairman of M+ Museum), Kenny Lam (CEO of TwoSigma APAC), and more leading HK CEOs',
+      'Working as a Quant Summer Intern with the Global Markets team in London',
+      'First rotation as a Quant Researcher on Central Risk Book desk',
+      'Successfully created an ACF-AR(p) model that predicts ETF RFQ Flow',
+      'Second ongoing rotation as a Quant Developer on the Portfolio Quantitative Analysis desk',
     ],
   },
   {
@@ -25,6 +18,7 @@ const positions = [
     daterange: 'December 2022 - Present',
     points: [
       'Working with the Massachusetts Institute of Technology Hong Kong Innovation Node and Tramplus on a co-developed STEAM education program promoting sustainability and circular design as a teacher and designer',
+      'Devised and designed Tramplus\' back-end user enrollment system throuhg Dev-Ops consultancy project',
     ],
   },
   {
@@ -38,6 +32,16 @@ const positions = [
     ],
   },
   {
+    company: 'Project Melo',
+    position: '2023 Fellow',
+    link: 'https://www.projectmelo.com/',
+    daterange: 'January 2023 - June 2023',
+    points: [
+      'Applyed McKinsey consulting strategies in preparation for Project Melo\'s flagship annual roundtable event',
+      'Organised, moderated, and participated in authentic roundtable-style discussions with industry leaders',
+      'Working intimately with Bernard Chan (Chairman of M+ Museum), Kenny Lam (CEO of TwoSigma APAC), and more leading HK CEOs',
+    ],
+  },  {
     company: 'Laboratory for Space Research (HKU)',
     position: 'Full-Time Research Assistant',
     link: 'https://www.lsr.hku.hk/',
