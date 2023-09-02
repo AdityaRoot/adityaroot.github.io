@@ -1,14 +1,23 @@
 const positions = [
+  // {
+  //   company: 'JPMorgan Chase & Co. and HKUST',
+  //   position: 'Student Consultant',
+  //   link: 'https://techmgmt.hkust.edu.hk/course-syllabus',
+  //   daterange: 'September 2023 - December 2023',
+  //   points: [
+  //     'Working with a team of students to assist JPMC in developing a
+  //     global ETF dashboard to improve ETF trading and inventory management',
+  //   ],
+  // },
   {
     company: 'UBS',
     position: 'Summer Global Markets Quant',
     link: 'https://www.ubs.com/uk/en.html',
     daterange: 'June 2023 - August 2023',
     points: [
-      'Working as a Quant Summer Intern with the Global Markets team in London',
-      'First rotation as a Quant Researcher on Central Risk Book desk',
-      'Successfully created an ACF-AR(p) model that predicts ETF RFQ Flow',
-      'Second ongoing rotation as a Quant Developer on the Portfolio Quantitative Analysis desk',
+      'Worked as a Quant Summer Intern within the Global Markets division in London',
+      'Developed ACF-AR(p) time-series models for the Central Risk Book team, resulting in improved ETF inventory management via ETF RFQ Flow prediction',
+      'Developed diagnostics for the Portfolio Quantitative Analytics team\'s American Monte Carlo system, allowing for more efficient and accurate risk management',
     ],
   },
   {

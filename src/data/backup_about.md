@@ -2,7 +2,7 @@
 Hi, my name is Aditya Vikram Mangla - though I generally go by Adi.
 
 <br />
-I am currently a second year student at the Hong Kong University of Science and Technology. I'm majoring in Physics, but am trying to transfer to Computer Science, as I realised that is where my passions and talents lie. I've grown up in Hong Kong all my life, and love the city with all my heart, this metropolis paradise shrouded by nature and mountains. Despite this, I believe that as my university life comes to an end - so shall my time in Hong Kong, and I plan to permanently move to the United Kingdom/Europe if I am fortunate enough to find work there.
+I am currently a third year student at the Hong Kong University of Science and Technology. I'm majoring in Physics, and minoring in IT. I've grown up in Hong Kong all my life, and love the city with all my heart, this metropolis paradise shrouded by nature and mountains.
 
 # Work
 I have been incredibly fortunate to get access to some amazing opportunities here in Hong Kong, and I have two favourites that I'd like to highlight.
@@ -17,7 +17,7 @@ After remaining available over the next year for system administration duties fr
 
 <br />
 
-Next, through January 2022, I worked at [Bloom Standard](https://www.bloomstandard.com/ "Bloom Standard"). I joined the team originally as an 'Electrical Engineering' Intern, but spent the whole time working more as a software engineering intern - I didn't even touch a circuit board until the last week of the internship! With the team at Bloom, I was working to develop the company's first working prototype of a portable, hand-held, user-driven ultrasound device. That was my last week though - tinkering with resistors, circuit boards, and silicon wafers to successfully create our first working prototype that was deplyed in a hospital in Mexico. It was absolutely incredible seeing a device I made with my own two hands being used in a hospital on the other side of the world.
+Next, through January 2022, I worked at [Bloom Standard](https://www.bloomstandard.com/ "Bloom Standard"). I joined the team originally as an 'Electrical Engineering' Intern, but spent the whole time working more as a software engineering intern - I didn't even touch a circuit board until the last week of the internship! With the team at Bloom, I was working to develop the company's first working prototype of a portable, hand-held, user-driven ultrasound device. That was my last week though - tinkering with resistors, circuit boards, and silicon wafers to successfully create our first working prototype that was deployed in a hospital in Mexico. It was absolutely incredible seeing a device I made with my own two hands being used in a hospital on the other side of the world.
 
 <br />
 

@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Hong Kong Techathon',
-    degree: '2nd Runner Up',
+    degree: '2nd Runner Up - HealthCare and GeronTech',
     link: 'https://www.hktechathon.com/',
     year: 2023,
   },

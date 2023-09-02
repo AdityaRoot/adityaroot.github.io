@@ -1,7 +1,7 @@
 const degrees = [
   {
     school: 'Hong Kong University of Science and Technology',
-    degree: 'B.Sc. Physics',
+    degree: 'B.Sc. Physics - Minor in Information Technology',
     link: 'https://hkust.edu.hk',
     year: 2025,
   },

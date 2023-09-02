@@ -39,17 +39,13 @@ const Resume = () => (
     <article className="post" id="resume">
       <header>
         <div className="title">
-          <h2 data-testid="heading"><Link to="resume">Resume</Link></h2>
+          <h2 data-testid="heading"><Link to="resume">Resume</Link></h2> <h3><a href="https://drive.google.com/drive/folders/179fLpc8QHZCwrnEX9sr0D6GMH4-bWjXT?usp=sharing" target="_blank" rel="noreferrer">PDF Link</a></h3>
           <div className="link-container">
-            <h4>
-              <a href="https://drive.google.com/drive/folders/179fLpc8QHZCwrnEX9sr0D6GMH4-bWjXT?usp=sharing" target="_blank" rel="noreferrer">PDF</a>
-            </h4>
             {sections.map((sec) => (
               <h4 key={sec}>
                 <a href={`#${sec.toLowerCase()}`}>{sec}</a>
               </h4>))}
           </div>
-
         </div>
       </header>
       <Education data={degrees} />
