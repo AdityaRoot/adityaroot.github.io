@@ -7,6 +7,11 @@ const skills = [
     category: ['Languages', 'Python'],
   },
   {
+    title: 'kdb+ Q',
+    competency: 3,
+    category: ['Languages', 'Data Science'],
+  },
+  {
     title: 'Lua',
     competency: 4,
     category: ['Languages'],

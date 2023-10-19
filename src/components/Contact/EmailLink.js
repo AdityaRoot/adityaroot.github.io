@@ -15,17 +15,12 @@ const messages = [
   'nihao',
   'you-can-email-me-at-literally-anything! Really',
   'well, not anything. But most things',
-  'like-this',
-  'or-this',
-  'but not this :(  ',
   'you.can.also.email.me.with.specific.topics.like',
   'just-saying-hi',
   'do-you-want-to-work-for-us',
-  'help',
-  'you-left-the-oven-on',
   'admin',
   'are-you-free-for-lunch',
-  'thanks',
+  'aditya',
 ];
 
 const useInterval = (callback, delay) => {

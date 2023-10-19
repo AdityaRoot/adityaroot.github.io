@@ -61,7 +61,7 @@ const Skills = ({ skills, categories }) => {
       <div className="link-to" id="skills" />
       <div className="title">
         <h3>Skills</h3>
-        <p>Here is a *mostly* honest overview of my skills
+        <p>Here is a quick and dirty overview of my skills
           ranked by how skilled I deem myself to be at them.
           A higher number generally means that more than just being knowledgable,
           I am comfortable using it in a professional setting as well

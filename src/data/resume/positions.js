@@ -11,13 +11,15 @@ const positions = [
   // },
   {
     company: 'UBS',
-    position: 'Summer Global Markets Quant',
+    position: 'Global Markets Quant Summer Intern',
     link: 'https://www.ubs.com/uk/en.html',
     daterange: 'June 2023 - August 2023',
     points: [
       'Worked as a Quant Summer Intern within the Global Markets division in London',
-      'Developed ACF-AR(p) time-series models for the Central Risk Book team, resulting in improved ETF inventory management via ETF RFQ Flow prediction',
-      'Developed diagnostics for the Portfolio Quantitative Analytics team\'s American Monte Carlo system, allowing for more efficient and accurate risk management',
+      'Developed ACF-AR(p) time-series models for the Central Risk Book desk, resulting in improved ETF inventory management via ETF RFQ Flow prediction',
+      'Model designed using Python (and libraries) ; achieved Model RMSE of 0.95, outperforming baseline RMSE of 1.25 (scored from 0 to 2, p-value < 0.001)',
+      'Developed diagnostics for the Portfolio Quantitative Analytics team\'s American Monte Carlo system, allowing for more accurate risk management and regulatory capital calculations',
+      'Model developed via C# and researched via Python (and libraries); successfully tested on over 400 trades',
     ],
   },
   {
@@ -27,12 +29,13 @@ const positions = [
     daterange: 'December 2022 - Present',
     points: [
       'Working with the Massachusetts Institute of Technology Hong Kong Innovation Node and Tramplus on a co-developed STEAM education program promoting sustainability and circular design as a teacher and designer',
-      'Devised and designed Tramplus\' back-end user enrollment system throuhg Dev-Ops consultancy project',
+      'Taught and supervised students in the design and construction next-generation HK Trams using new technologies (3D-Printing, Machine Learning, etc.)',
+      'Devised and designed Tramplus\' back-end user enrollment system through Dev-Ops consultancy project',
     ],
   },
   {
     company: 'Cyclopes Education',
-    position: 'Exam Analyst',
+    position: 'Analyst',
     link: 'https://www.cyclopeseducation.com/',
     daterange: 'March 2022 - Present',
     points: [
@@ -49,6 +52,7 @@ const positions = [
       'Applied McKinsey consulting strategies in preparation for Project Melo\'s flagship annual roundtable event',
       'Organised, moderated, and participated in authentic roundtable-style discussions with industry leaders',
       'Working intimately with Bernard Chan (Chairman of M+ Museum), Kenny Lam (CEO of TwoSigma APAC), and more leading HK CEOs',
+      'Selected as one of 20 fellows from a competitive pool of 470+ applicants, working with a team of 4 to deliver the roundtable',
     ],
   },
   {
@@ -74,7 +78,7 @@ const positions = [
       'Working hands-on with the CTO to develop a functional prototype of user-driven and affordable ultrasound technology currently undergoing hospital trials in UK, India, and Mexico',
       'Deployed and configured Python-based TensorFlow neural network machine learning algorithm to Nvidia GPU driven supercomputer',
       'Effectively performed system administration duties in setting up and managing remote access through VNC and RaspberryPi hosted on HK AI Labs\' Linux supercomputer',
-      'Specialized in Python, Linux, RaspberriPi, Git, TensorFlow, VNC, and Docker',
+      'Specialized in Python, Linux, RaspberryPi, Git, TensorFlow, VNC, and Docker',
     ],
   },
   {

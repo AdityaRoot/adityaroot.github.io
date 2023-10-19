@@ -1,6 +1,15 @@
 // TODO Add a couple lines about each project
 const noimgdata = [
   {
+    title: 'ONGOING: ETF Sales Dashboard for JPMC with HKUST',
+    subtitle: 'Global ETF Sales Dashboard for JPMC',
+    link: 'https://am.jpmorgan.com/hk/en/asset-management/institutional/investment-strategies/etfs/',
+    date: '2023 September - Present',
+    desc:
+      'Designing a Global ETF Sales Dashboard for our corporate sponsor JPMC. '
+      + 'Applying Python data analysis and natural language processing to summarize information from news/social medi aand showcase alongside relevant quantitative metrics for competitive analysis.',
+  },
+  {
     title: 'ONGOING: Linux Dotfiles',
     subtitle: 'Configuration files for my laptop',
     link: 'https://github.com/AdityaRoot/dotfiles',
@@ -11,19 +20,19 @@ const noimgdata = [
       + 'Tools used include Python, C(++), LaTeX, Bash/Shell, Lua, Git, and Linux.',
   },
   {
-    title: 'ONGOING: Project Melo Roundtables',
+    title: 'Project Melo Roundtables',
     subtitle: '',
     link: 'https://projectmelo.com/',
-    date: '2022 Jan - Present',
+    date: '2023 January - 2023 June',
     desc:
-      'As a 2023 Project Melo Fellow I am working with a team of 3 other fellows to create a series of roundtables events to be broadcated by SCMP. '
+      'As a 2023 Project Melo Fellow, worked with a team of 3 other fellows to create a series of roundtables events to be broadcated by SCMP. '
       + 'Working intimmately with Bernard Chan (Chairman of M+), Alan Lau (CBO at Animoca brands), Kenny Lam (CEO of TwoSigma APAC), Louisa Mak (Miss Hong Kong 2015), and more key industry leaders in Hong Kong. ',
   },
   {
-    title: 'OhackUST Organising Committee',
+    title: 'hackUST Organising Committee',
     subtitle: '',
     link: 'https://hackust.agorize.com/',
-    date: '2022 November - Present',
+    date: '2022 November - 2023 March',
     desc:
       'Worked with the HKUST Entrepreneurship Center as part of the organising committee for hackUST 2023, '
       + 'the largest hackathon in the Greater China region. ',
