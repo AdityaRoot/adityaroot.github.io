@@ -16,7 +16,7 @@ const Projects = lazy(() => import('./pages/Projects'));
 const Resume = lazy(() => import('./pages/Resume'));
 const Stats = lazy(() => import('./pages/Stats'));
 const TemgPricingHistory = lazy(() => import('./pages/temg_pricing_history'));
-const TemgPortfolio = lazy(() => import('./pages/temg_portfolio'));
+const TemgPortfolio = lazy(() => import('./pages/merry_christmas'));
 
 const App = () => (
   <BrowserRouter basename={PUBLIC_URL}>
@@ -29,7 +29,7 @@ const App = () => (
         <Route path="/contact" component={Contact} />
         <Route path="/resume" component={Resume} />
         <Route path="/temg_pricing_history" component={TemgPricingHistory} />
-        <Route path="/temg_portfolio" component={TemgPortfolio} />
+        <Route path="/merry_christmas" component={TemgPortfolio} />
         <Route component={NotFound} status={404} />
       </Switch>
     </Suspense>

@@ -9,8 +9,8 @@ const temgRoutes = [
     path: '/temg_pricing_history',
   },
   {
-    label: 'My Portfolio',
-    path: '/temg_portfolio',
+    label: 'Merry Christmas',
+    path: '/merry_christmas',
   },
 ];
 
